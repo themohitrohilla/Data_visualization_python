@@ -13,4 +13,3 @@ missing values
 4. Explore the relationship between the feature and target column using a count plot of
 categorical columns and a scatter plot of numerical columns
 5. Perform data visualization using plots of feature vs feature
-6. Check if the numbe
